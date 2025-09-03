@@ -15,8 +15,8 @@ def main():
 
     print("============================================================")
     print("                    🧠 MEMORY TRIAGE TOOL 🧠")
-    print("       Developed by Joao Marques - Launcher Mode")
-    print("            https://github.com/joao-hg-marques")    
+    print("                    Developed by Joao Marques")
+    print("                https://github.com/joao-hg-marques")    
     print("============================================================\n")
     print("📡 Scanning in progress...")
 
