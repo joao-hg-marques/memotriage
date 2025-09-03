@@ -1,7 +1,7 @@
 
 import argparse
 import os
-from memory_triage_flat_parser_with_launcher_tree import run_triage_report
+from memorytriage_parser import run_triage_report
 
 def main():
     parser = argparse.ArgumentParser(description="Memory Triage CLI - Who Launched What Edition")
